@@ -1,0 +1,6 @@
+id,Deployment,MoveType,DeployEffect,value1,LifeEffect,CaptureRule,decay_time,,,_Deployments,_MoveType,_DeployEffect,_LifeEffects,_CaptureRule
+Base_unit,None,Basic,Default,0,None,Default,0,,,No_restriction,Neighbor,Default,Create_fortress,Default
+General,Friends_welcome,Immobile,Pacifist,0,Create_fortress,Default,0,,,Foes_welcome,Basic,Pacifist,Boost_points,Untouchable
+Enforcer,Foes_welcome,Vertical_horizontal,Unibomb,4,None,Default,0,,,Friends_welcome,Immobile,Unibomb,Decay,
+Rich_guy,Friends_welcome,Neighbor,Pacifist,0,Boost_points,Default,0,,,None,TwoX_Square,Slime_bomb,None,
+Slime,No_restriction,Immobile,Slime_bomb,5,Decay,Untouchable,6,,,,Vertical_horizontal,None,,

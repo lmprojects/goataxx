@@ -1,0 +1,6 @@
+id,Passability,Score,,,,_Passabilities
+empty,free,1,,,,
+high_wall_cell,high_wall,2,,,,total_block
+rich_cell,free,4,,,,free
+blocked_cell,total_block,0,,,,swamp
+,,,,,,high_wall

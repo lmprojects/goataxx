@@ -1,0 +1,3 @@
+id,effect,value1,,,,_Effect
+score_chest,give_score,20,,,,give_score
+unit_chest,give_unit,,,,,give_unit
